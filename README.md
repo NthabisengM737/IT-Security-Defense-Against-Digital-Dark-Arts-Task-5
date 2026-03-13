@@ -24,29 +24,23 @@ Key Findings:
 - Minimum password length: 0 characters
 - Password complexity disabled
   
-
-
 ---
 
 ### 2. Firewall Status
 
 Verified that **Windows Defender Firewall** is enabled for all network profiles.
 
-
-
 ---
 
 ### 3. Windows Updates
-Checked system update status to ensure latest security patches are installed.
+Checked system update status to ensure whether the system is up to date.
 
-
+Verification: The version of windows has reached the end of support.
 
 ---
 
 ### 4. Antivirus Protection
 Confirmed that **Windows Defender Real-Time Protection** is active.
-
-
 
 ---
 
@@ -54,7 +48,7 @@ Confirmed that **Windows Defender Real-Time Protection** is active.
 
 Checked **BitLocker encryption status**.
 
-
+Confirmed that **BitLocker encryption** is disabled.
 
 ---
 
